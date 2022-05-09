@@ -1,0 +1,9 @@
+.two-columns__paragraph:first-child {
+    margin: 0;
+  }
+  .two-columns__paragraph:nth-child(2) {
+    margin: 30px auto;
+  }
+  .two-columns__paragraph:last-child {
+    margin: 0;
+  }
